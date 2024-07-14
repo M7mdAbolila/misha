@@ -1,0 +1,5 @@
+0 Cat
+1 Dog
+2 Turtle
+3 Lion
+4 Deer
