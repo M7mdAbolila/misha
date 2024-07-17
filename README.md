@@ -1,16 +1,12 @@
 # misha
+🐾 Introducing Misha: My Latest Flutter Project! 🐾
 
-A new Flutter project.
+Misha leverages the power of image recognition to detect animals in photos.
+Whether you pick an image from your gallery or snap a new one with your camera, Misha will identify the animals in a snap! 📸.
+With simple onboarding screen🌟.
+Check out the demo video below to see Misha in action.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/user-attachments/assets/364d5224-348e-4905-a438-ef2fbc4c4497
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
