@@ -33,7 +33,9 @@ dependencies:
     sdk: flutter
   flutter_screenutil: ^5.9.3
   flutter_svg: ^2.0.10+1
+  image_picker: ^1.1.2
   shared_preferences: ^2.2.3
+  tflite_v2: ^1.0.0
 
 dev_dependencies:
   flutter_lints: ^3.0.0
@@ -52,6 +54,8 @@ flutter:
   assets:
     - assets/cat.png
     - assets/scanner.png
+    - assets/models/model_unquant.tflite
+    - assets/models/labels.txt
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
   # For details regarding adding assets from package dependencies, see
